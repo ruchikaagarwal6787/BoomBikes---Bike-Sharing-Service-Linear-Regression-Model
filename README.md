@@ -37,12 +37,12 @@ we were able to build a descent model with R-squared 0.823 on training data and 
 
 ## Technologies Used
 Python on jupyter notebook by anaconda 3
-and Python libraries:
-pandas
-numpy
-matplotlib
-seaborn
-sklearn
+and Python libraries: 
+pandas,
+numpy,
+matplotlib,
+seaborn,
+sklearn,
 statsmodels
 
 
